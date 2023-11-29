@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyShoesApp</string>
+    <string name="detailed_view_budget_label">Budget: \u0024%1$d million</string>
+    <string name="title_activity_list_activity.kt">ListActivity.kt</string>
+    <string name="saved_success_msg">Success</string>
+    <string name="saved_fail_msg">Failed</string>
+    <string name="title_activity_add_new_Shoes">Add\n\n</string>
+    <string name="Shoes_name_input_hint">Enter shoes title</string>
+    <string name="Shoes_desc_input_hint">Enter Shoes Description\n</string>
+    <string name="shoes_price_input_hint">Enter cost of shoes</string>
+    <string name="shoes_size_input_hint">Enter size</string>
+    <string name="Shoes_gender_input_hint">Enter gender</string>
+    <string name="add_new_founders_input_hint">Add founders</string>
+    <string name="Shoes_all_fields_compulsory_warning">All fields are compulsory!</string>
+    <string name="Shoes_title_input_hint">enter title of shoes</string>
+    <string name="save_btn_text">Save</string>
+</resources>
